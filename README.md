@@ -41,26 +41,6 @@
 
 
 
-![89305-qq](https://github.com/user-attachments/assets/f11dda6d-41ee-4b60-9d10-6195962eca3d)
-
-![826972411-qq](https://github.com/user-attachments/assets/f09cde39-c278-4dd9-9077-9badd788217a)
-
-![fjf131410-163](https://github.com/user-attachments/assets/5dd5c47e-8b53-4e49-8896-d98a6367c16b)
-
-
-![jamph137](https://github.com/user-attachments/assets/680171ed-7e42-4ca4-8360-d49d8fe61c59)
-![jamph604](https://github.com/user-attachments/assets/988eb46d-8b73-48ec-a927-9133039c877f)
-![jamph619](https://github.com/user-attachments/assets/22f3c4a9-a4c6-41e8-8666-4efd18691b9c)
-
-![jamph131411](https://github.com/user-attachments/assets/71e85301-e348-4ece-928d-77eabc2b5538)
-![jamph619675941](https://github.com/user-attachments/assets/1c4bae0a-e061-4546-a64b-a1f4d2ccb85e)
-
-
-
-
-
-
-
 ### ***NET::ERR_CERT_AUTHORITY_INVALID***
 
 浏览器会额外提示：攻击者可能试图从 xxx.github.io 窃取你的信息，此服务器无法证明它是 xxx.github.io；你的计算机的操作系统不信任它的安全证书。这可能是由配置错误或者有攻击者截获你的连接而导致的。当继续访问时又会403。
